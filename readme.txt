@@ -5,7 +5,7 @@ Donate link:
 Tags: development, local, airplane-mode, disable-updates, offline
 Requires at least: 5.0
 Tested up to: 6.0
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 License: MIT
 License URI: https://opensource.org/licenses/MIT
 
@@ -42,6 +42,11 @@ Because you are a developer who needs to work without an internet connection.
 1. Admin bar toggle to enable/disable Airplane Mode.
 
 == Changelog ==
+
+= 1.1.0 - 2024/06/02 =
+* Refactored plugin into dedicated class file for cleaner structure.
+* Added blocking of remote scripts/styles and local avatar replacement.
+* Improved local URL detection and polished overall codebase.
 
 = 1.0.0 - 2023/07/03 =
 * Initial release with updated and modernized codebase.
